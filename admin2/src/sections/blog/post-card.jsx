@@ -39,7 +39,7 @@ export default function PostCard({ post, index }) {
           zIndex: 9,
           top: 24,
           left: 24,
-          width: 40,
+        width: 40,
           height: 40,
         }),
       }}
